@@ -1,0 +1,44 @@
+{
+  "id": "the-cursed-knights-of-crestmoor",
+  "title": "The Cursed Knights of Crestmoor",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "14",
+    "verified": "14"
+  },
+  "description": "<blockquote><p><em><strong>In an age obscured by mist and memory, Sir Galen the Brave and his knights struck down the Drake of Crestmoor with steel and flame. But as the years turned, and the heroes returned to dust, their deeds faded into myth. Doubt lurked where awe once dwelled, and in time, the bards sang of lesser deeds. In the hollows of the wilderness, the stones of their forgotten tomb crumbled beneath ivy and shadow.</strong></em></p></blockquote><hr><h2>Introduction</h2><p>The Cursed Knights of Crestmoor is a short dungeon crawl for four characters of levels 1-2 using <span style=\"color:rgb(140, 0, 0)\">Shadowdark RPG ©</span>. The adventure is designed to be easy to run for new game masters. Players should not be cavalier in their approach to this dungeon. There are threats in the tomb which could easily kill foolhardy player characters.</p><hr><h2>Companion Video</h2><p>This adventure was released for free by Clyde from <span style=\"color:rgb(140, 0, 0)\">LowKeyTTRPG</span> on YouTube. Check out this video that explains the dungeon in detail and helps you get ready to run your first ShadowDark session as game master: <a href=\"https://youtu.be/JBU1DUnN7Qc\">Companion Video</a></p>",
+  "authors": [
+    {
+      "name": "RCXZILLA",
+      "email": "RCXZILLA@GMAIL.COM",
+      "discord": "rcxzilla",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "The-Cursed-Knights-of-Crestmoor",
+      "label": "The Cursed Knights of Crestmoor",
+      "path": "packs/The-Cursed-Knights-of-Crestmoor",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "shadowdark",
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "shadowdark",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  }
+}
