@@ -1,3 +1,7 @@
+
+
+<img width="633" height="587" alt="Screenshot 2026-07-02 201932" src="https://github.com/user-attachments/assets/f5288566-c513-4c0e-bc7b-2c79835b5f0b" />
+
 # The Cursed Knights of Crestmoor
 This Foundry VTT Adventure is intended to be free to use.
 
