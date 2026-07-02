@@ -1,4 +1,4 @@
-# the-cursed-knights-of-crestmoor
+# The Cursed Knights of Crestmoor
 This Foundry VTT Adventure is intended to be free to use.
 
 The Cursed Knights of Crestmoor is a short dungeon crawl for four characters of levels 1-2 using Shadowdark RPG ©. The adventure is designed to be easy to run for new game masters. Players should not be cavalier in their approach to this dungeon. There are threats in the tomb which could easily kill foolhardy player characters.
