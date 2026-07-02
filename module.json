@@ -12,6 +12,7 @@
       "name": "RCXZILLA",
       "email": "RCXZILLA@GMAIL.COM",
       "discord": "rcxzilla",
+      "url": "https://github.com/rcxzilla/the-cursed-knights-of-crestmoor",
       "flags": {}
     }
   ],
@@ -40,5 +41,6 @@
         "compatibility": {}
       }
     ]
-  }
+  },
+  "url": "https://github.com/rcxzilla/the-cursed-knights-of-crestmoor"
 }
