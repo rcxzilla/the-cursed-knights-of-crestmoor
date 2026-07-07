@@ -12,10 +12,12 @@ The Cursed Knights of Crestmoor is a short dungeon crawl for four characters of 
 This adventure was released for free by Clyde from LowKeyTTRPG on YouTube. Check out this video that explains the dungeon in detail and helps you get ready to run your first ShadowDark session as game master: https://youtu.be/JBU1DUnN7Qc
 
 ## Contents 
-9 Actors
-14 Items
-1 Journal
-2 Scenes
-5 Rollable Tables
+- 9 Actors
+- 14 Items
+- 1 Journal
+- 2 Scenes
+- 5 Rollable Tables
+
+## License
 
 This module was made with the approval of LowKeyTTRPG.
